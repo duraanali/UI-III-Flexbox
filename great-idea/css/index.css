@@ -87,13 +87,6 @@ header nav ul {
 	padding: 0;
 }
 
-header nav a {
-	display: flex;
-	width: 60px;
-	text-decoration: none;
-	color: grey
-  }
-
 header nav ul li {
 	display: flex;
 	padding: 2px;
@@ -244,6 +237,8 @@ footer {
 
 ul {
 	margin-top: 20px;
+	margin-left: 20px;
+	list-style-type: disc;
 }
 
 .facts {
